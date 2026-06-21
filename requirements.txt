@@ -1,0 +1,13 @@
+scikit-learn
+nltk
+spacy
+pandas
+seaborn
+numpy
+opencv-python
+scikit-image
+scipy
+pillow
+torch
+torchvision 
+matplotlib
