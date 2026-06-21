@@ -13,3 +13,4 @@ notebooks/data/
 *.csv
 *.tsv
 *.json
+*.zip
